@@ -19,3 +19,7 @@ button:hover{
     background-color: lightgreen;
     cursor: pointer;
 }
+
+video{
+    width: 50%;
+}
