@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+}
+
+body{
+    background: rgba(240, 255, 255, 0.671);
+    padding: 3px;
+    color: rgba(0, 204, 255, 0.918);
+}
+
+button{
+    padding: 1%;
+    border-radius: 8px;
+    border-color: white;
+    color: blue
+}
+
+button:hover{
+    background-color: lightgreen;
+    cursor: pointer;
+}
