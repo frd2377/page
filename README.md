@@ -1,2 +1,1 @@
-# page
-Pagina web de prueba
+#Codigo para grabar videos y guardarlos localmente, con javascript
